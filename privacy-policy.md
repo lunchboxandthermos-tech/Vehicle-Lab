@@ -1,4 +1,4 @@
-# Privacy Policy Draft For The Vehicle Lab
+# Privacy Policy For The Vehicle Lab
 
 Effective date: July 6, 2026
 
