@@ -37,7 +37,7 @@ or other connected services, this policy should be updated before release.
 
 ## Contact
 
-Add a parent/developer contact email here before publishing.
+lunchboxandthermos@gmail.com
 
 ## Review Note
 
